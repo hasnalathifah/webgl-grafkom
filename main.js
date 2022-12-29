@@ -41,8 +41,8 @@ function main() {
     return d * Math.PI / 180;
   }
 
-  var translation = [-64, -75, -380];
-  var rotation = [degToRad(0), degToRad(0), degToRad(0)];
+  var translation = [-64, -55, -380];
+  var rotation = [degToRad(18), degToRad(0), degToRad(0)];
   var scale = [1, 1, 1];
   var fieldOfViewRadians = degToRad(38);
   var rotationSpeed = 1.2;
